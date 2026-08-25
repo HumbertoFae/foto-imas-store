@@ -7,6 +7,7 @@ E-commerce responsivo para criação e compra de ímãs personalizados. A experi
 ## Demonstração
 
 - [Abrir a demonstração no portfólio](https://humbertozizi.dev/demos/foto-imas-store/)
+- [Abrir diretamente o dashboard](https://humbertofae.github.io/foto-imas-store/#/dashboard)
 - [Ver o estudo de caso completo](https://humbertozizi.dev/#project-f1m4g24)
 
 ## Visão do produto
