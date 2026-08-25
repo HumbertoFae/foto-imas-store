@@ -35,7 +35,6 @@ O projeto transforma uma compra com muitas decisões em uma jornada simples:
 
 ```text
 foto-imas-store/
-├── .github/workflows/  # publicação automatizada no GitHub Pages
 ├── public/             # imagens e produtos da demonstração
 ├── src/
 │   ├── main.tsx        # inicialização do React
